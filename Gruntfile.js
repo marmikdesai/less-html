@@ -48,7 +48,7 @@ var PathConfig = require('./grunt-settings.js');
     },
 	
 	
-    //sass
+    //less
     less: {
       options: PathConfig.hasBower,
       dev: {
